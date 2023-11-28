@@ -103,7 +103,7 @@ var allList = [];
 // Function to prompt user for password options
 
 function getPasswordOption(){
-  //all options true
+  
 
   if (isUpperCase == true ){
     if((isNumeric == true) && (isSpecialCharacters == true)){
